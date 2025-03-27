@@ -1,4 +1,4 @@
-package lust.my_first_web_api;
+package lust.WebApi;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
