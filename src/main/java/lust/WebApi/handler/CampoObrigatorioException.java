@@ -1,4 +1,4 @@
-package lust.my_first_web_api.handler;
+package lust.WebApi.handler;
 
 public class CampoObrigatorioException extends BusinessException {
 

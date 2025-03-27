@@ -1,4 +1,4 @@
-package lust.my_first_web_api.handler;
+package lust.WebApi.handler;
 
 import org.springframework.cglib.proxy.UndeclaredThrowableException;
 import org.springframework.context.MessageSource;

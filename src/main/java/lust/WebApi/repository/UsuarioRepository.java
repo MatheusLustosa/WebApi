@@ -1,9 +1,10 @@
-package lust.my_first_web_api.repository;
+package lust.WebApi.repository;
 
-import lust.my_first_web_api.handler.BusinessException;
-import lust.my_first_web_api.handler.CampoObrigatorioException;
-import lust.my_first_web_api.model.Usuario;
 import org.springframework.stereotype.Repository;
+
+import lust.WebApi.handler.BusinessException;
+import lust.WebApi.handler.CampoObrigatorioException;
+import lust.WebApi.model.Usuario;
 
 import java.util.ArrayList;
 import java.util.List;

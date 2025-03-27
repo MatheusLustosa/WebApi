@@ -1,9 +1,10 @@
-package lust.my_first_web_api.controller;
+package lust.WebApi.controller;
 
-import lust.my_first_web_api.model.Usuario;
-import lust.my_first_web_api.repository.UsuarioRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.*;
+
+import lust.WebApi.model.Usuario;
+import lust.WebApi.repository.UsuarioRepository;
 
 import java.util.List;
 

@@ -1,4 +1,4 @@
-package lust.my_first_web_api.model;
+package lust.WebApi.model;
 
 public class Usuario {
     private Integer id;
